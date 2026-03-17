@@ -39,9 +39,16 @@ GitHub organization for the development of quantum-many-body algorithms.
   </picture>
 </a>
 
-<a href="https://github.com/ZongYongyue/DCorrelators.jl">
+<a href="https://github.com/Quantum-Many-Body/DynamicalCorrelators.jl">
  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ZongYongyue&repo=DCorrelators.jl&show_owner=false&theme=dark">
-    <img align="center" alt="DCorrelators.jl" src="https://github-readme-stats.vercel.app/api/pin/?username=ZongYongyue&repo=DCorrelators.jl&show_owner=false">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ZQuantum-Many-Body&repo=DynamicalCorrelators.jl&show_owner=false&theme=dark">
+    <img align="center" alt="DynamicalCorrelators.jl" src="https://github-readme-stats.vercel.app/api/pin/?username=Quantum-Many-Body&repo=DynamicalCorrelators.jl&show_owner=false">
+  </picture>
+</a>
+
+<a href="https://github.com/Quantum-Many-Body/QuantumClusterTheories.jl">
+ <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Quantum-Many-Body&repo=QuantumClusterTheories.jl&show_owner=false&theme=dark">
+    <img align="center" alt="DCorrelators.jl" src="https://github-readme-stats.vercel.app/api/pin/?username=Quantum-Many-Body&repo=QuantumClusterTheories.jl&show_owner=false">
   </picture>
 </a>
