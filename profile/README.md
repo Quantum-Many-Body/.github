@@ -25,20 +25,6 @@ GitHub organization for the development of quantum-many-body algorithms.
   </picture>
 </a>
 
-<a href="https://github.com/Quantum-Many-Body/SpinWaveTheory.jl">
- <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Quantum-Many-Body&repo=SpinWaveTheory.jl&show_owner=false&theme=dark">
-    <img align="center" alt="SpinWaveTheory.jl" src="https://github-readme-stats.vercel.app/api/pin/?username=Quantum-Many-Body&repo=SpinWaveTheory.jl&show_owner=false">
-  </picture>
-</a>
-
-<a href="https://github.com/Quantum-Many-Body/RandomPhaseApproximation.jl">
- <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Quantum-Many-Body&repo=RandomPhaseApproximation.jl&show_owner=false&theme=dark">
-    <img align="center" alt="RandomPhaseApproximation.jl" src="https://github-readme-stats.vercel.app/api/pin/?username=Quantum-Many-Body&repo=RandomPhaseApproximation.jl&show_owner=false">
-  </picture>
-</a>
-
 <a href="https://github.com/Quantum-Many-Body/DynamicalCorrelators.jl">
  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Quantum-Many-Body&repo=DynamicalCorrelators.jl&show_owner=false&theme=dark">
@@ -50,6 +36,20 @@ GitHub organization for the development of quantum-many-body algorithms.
  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Quantum-Many-Body&repo=QuantumClusterTheories.jl&show_owner=false&theme=dark">
     <img align="center" alt="QuantumClusterTheories.jl" src="https://github-readme-stats.vercel.app/api/pin/?username=Quantum-Many-Body&repo=QuantumClusterTheories.jl&show_owner=false">
+  </picture>
+</a>
+
+<a href="https://github.com/Quantum-Many-Body/SpinWaveTheory.jl">
+ <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Quantum-Many-Body&repo=SpinWaveTheory.jl&show_owner=false&theme=dark">
+    <img align="center" alt="SpinWaveTheory.jl" src="https://github-readme-stats.vercel.app/api/pin/?username=Quantum-Many-Body&repo=SpinWaveTheory.jl&show_owner=false">
+  </picture>
+</a>
+
+<a href="https://github.com/Quantum-Many-Body/RandomPhaseApproximation.jl">
+ <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Quantum-Many-Body&repo=RandomPhaseApproximation.jl&show_owner=false&theme=dark">
+    <img align="center" alt="RandomPhaseApproximation.jl" src="https://github-readme-stats.vercel.app/api/pin/?username=Quantum-Many-Body&repo=RandomPhaseApproximation.jl&show_owner=false">
   </picture>
 </a>
 
